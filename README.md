@@ -21,6 +21,7 @@ Build an agent that can answer complex questions about your documents.
 
 [![AgenticRag](https://img.youtube.com/vi/WnVf5ei-_dw/0.jpg)](https://youtu.be/WnVf5ei-_dw)
 
+---
 
 ## Course Link
 
