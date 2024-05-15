@@ -8,6 +8,15 @@ Build an agent that can answer complex questions about your documents.
 
 ---
 
+## INDEX
+
+1. Router Query Engine
+2. Tool Calling
+3. Building an Agent Reasoning Loop
+4. Building a Multi Document Agent
+
+---
+
 ## Course Link
 
 <https://learn.deeplearning.ai/courses/building-agentic-rag-with-llamaindex>
